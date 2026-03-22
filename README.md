@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello! I'm a 17 year old learner and an aspiring polymath filled with enthusiasm.
-
+Aspiring polymath.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/bd452yJmRV) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trynabeanshu) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Pablochocbar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pabolochocobar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smartyfrr@gmail.com) 
